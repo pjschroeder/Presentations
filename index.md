@@ -2,30 +2,30 @@
 
 Rice VJ, **Schroeder PJ,** Allison SJ. Gender effects for perceived stress and coping among U.S. Military active duty and veteran service members. Paper presented at International Conference on Applied Human Factors and Ergonomics 2020. San Diego, CA. 
 
-Rice VJB,**Schroeder PJ,** Boykin GL et al. Is self-concept related to organizational and job-related commitment among combat medic trainees. Paper presented at International Conference on Applied Human Factors and Ergonomics 2020. San Diego, CA. 
+Rice VJB, **Schroeder PJ,** Boykin GL et al. Is self-concept related to organizational and job-related commitment among combat medic trainees. Paper presented at International Conference on Applied Human Factors and Ergonomics 2020. San Diego, CA. 
 
-Zou J,**Schroeder PJ,** Duncan JR et al. Identifying risk factors for opioid abuse and misuse in outpatient active-duty Air Force. Paper presented at Military Health System Research Symposium 2019. Kissimmee FL. 
+Zou J, **Schroeder PJ,** Duncan JR et al. Identifying risk factors for opioid abuse and misuse in outpatient active-duty Air Force. Paper presented at Military Health System Research Symposium 2019. Kissimmee FL. 
 
-Woitena B, Zou J,**Schroeder PJ** et al. Predicting deployability from modifiable behaviors in active-duty Air Force Service members. Paper presented at Military Health System Research Symposium 2019. Kissimmee FL <embed src="pjschroeder/Presentations/blob/main/Poster_MHSRS19_PredictingDeployabilityFromModifiableBehaviors.pdf" width="100%" height="850px"/>
+Woitena B, Zou J, **Schroeder PJ** et al. Predicting deployability from modifiable behaviors in active-duty Air Force Service members. Paper presented at Military Health System Research Symposium 2019. Kissimmee FL <embed src="pjschroeder/Presentations/blob/main/Poster_MHSRS19_PredictingDeployabilityFromModifiableBehaviors.pdf" width="100%" height="850px"/>
 
  
   <a href="username.github.io/folder/document.pdf" target="_blank">PDF.</a>
 
-Duncan J,**Schroeder PJ,** Williams J. Medical encounters for sleep disorders among mixed-age male and female active-duty U.S. Air Force between 2016 and 2017. Poster presented at SLEEP 2019. San Antonio, TX.
+Duncan J, **Schroeder PJ,** Williams J. Medical encounters for sleep disorders among mixed-age male and female active-duty U.S. Air Force between 2016 and 2017. Poster presented at SLEEP 2019. San Antonio, TX.
 
-Rice V,**Schroeder PJ.** Resilience and mindfulness in active duty and veteran U.S. military service members. Resilience Week 2019. San Antonio, TX. ***PDF*** (https://github.com/pjschroeder/Presentations/blob/main/Presentation_ResilienceWeek19_ResilienceandMindfulness.pdf)
+Rice V, **Schroeder PJ.** Resilience and mindfulness in active duty and veteran U.S. military service members. Resilience Week 2019. San Antonio, TX. ***PDF*** (https://github.com/pjschroeder/Presentations/blob/main/Presentation_ResilienceWeek19_ResilienceandMindfulness.pdf)
 
-Rice VJ,**Schroeder PJ.** Self-reported perceived stress and stress coping among a sample of active duty and veteran U.S. Military. Paper presented at International Conference on Applied Human Factors and Ergonomics 2019. Washington, D.C. ***PDF***  (https://github.com/pjschroeder/Presentations/blob/main/Presentation_AHFE19_SelfReportedStressRelatedCopingStrategiesandPerceivedStress.pdf)
+Rice VJ, **Schroeder PJ.** Self-reported perceived stress and stress coping among a sample of active duty and veteran U.S. Military. Paper presented at International Conference on Applied Human Factors and Ergonomics 2019. Washington, D.C. ***PDF***  (https://github.com/pjschroeder/Presentations/blob/main/Presentation_AHFE19_SelfReportedStressRelatedCopingStrategiesandPerceivedStress.pdf)
 
-Rice VJ,**Schroeder PJ.** Self-reported resilience, somatization, health, and health biomarkers among sample of U.S. Military active duty and veterans. Poster presented at Military Health System Research Symposium 2018. Kissimmee FL.***PDF***(https://github.com/pjschroeder/Presentations/blob/main/Poster_MHSRS18_SelfReportedResilienceSomatizationHealthandBiomarkers.pdf)
+Rice VJ, **Schroeder PJ.** Self-reported resilience, somatization, health, and health biomarkers among sample of U.S. Military active duty and veterans. Poster presented at Military Health System Research Symposium 2018. Kissimmee FL.***PDF***(https://github.com/pjschroeder/Presentations/blob/main/Poster_MHSRS18_SelfReportedResilienceSomatizationHealthandBiomarkers.pdf)
 
-Rice VJ,**Schroeder PJ,** Cassenti DN et al.. The effects of traumatic brain injury (TBI) on cognitive performance in a sample of active-duty U.S. Military service members. Poster presented at Military Health System Research Symposium 2018. Kissimmee FL.***TBI***(https://github.com/pjschroeder/Presentations/blob/main/Poster_MHSRS18_EffectsOfTBIOnCogPerformance.pdf)
+Rice VJ, **Schroeder PJ,** Cassenti DN et al.. The effects of traumatic brain injury (TBI) on cognitive performance in a sample of active-duty U.S. Military service members. Poster presented at Military Health System Research Symposium 2018. Kissimmee FL.***TBI***(https://github.com/pjschroeder/Presentations/blob/main/Poster_MHSRS18_EffectsOfTBIOnCogPerformance.pdf)
 
 Rice V,**Schroeder PJ.** Is mindfulness related to how long one spends with an organization? A cross-sectional comparison of dispositional mindfulness and military time-in-service. Poster presented at the International Conference on Mindfulness 2018. Amsterdam, Netherlands. ***PDF*** (https://github.com/pjschroeder/Presentations/blob/main/Poster_ICM18_IsMindfulnessRelatedToHowLongOneSpendsWithAnOrganization.pdf)
 
 Rice V,**Schroeder PJ.** Are those who are more mindful also more resilient? Dispositional resilience and mindfulness among active duty and veteran U.S. military service members. Poster presented at the International Conference on Mindfulness 2018. Amsterdam, Netherlands. ***PDF***  (https://github.com/pjschroeder/Presentations/blob/main/Poster_ICM18_AreThoseWhoAreMoreMindfulAlsoMoreResilient.pdf)
 
-Phipps H,**Schroeder PJ,** Nichols L et al. Measuring medical readiness in studies with military samples. Paper presented at Paper presented at International Conference on Applied Human Factors and Ergonomics 2018. Orlando, FL.
+Phipps H, **Schroeder PJ,** Nichols L et al. Measuring medical readiness in studies with military samples. Paper presented at Paper presented at International Conference on Applied Human Factors and Ergonomics 2018. Orlando, FL.
 
 Rice VJ, Boykin GL, **Schroeder PJ** et al. Organizational commitment, sense-of-self, and performance among combat medic trainees. Paper presented at Paper presented at International Conference on Applied Human Factors and Ergonomics 2018. Orlando, FL. ***PDF*** (https://github.com/pjschroeder/Presentations/blob/main/Presentation_AHFE19_OrganizationalCommitmentSenseOfSelfandPerformanceAmongCombat%20Medic%20Trainees.pdf)
 
