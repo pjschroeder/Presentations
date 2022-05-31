@@ -6,7 +6,9 @@ Rice VJB,**Schroeder PJ,** Boykin GL et al. Is self-concept related to organizat
 
 Zou J,**Schroeder PJ,** Duncan JR et al. Identifying risk factors for opioid abuse and misuse in outpatient active-duty Air Force. Paper presented at Military Health System Research Symposium 2019. Kissimmee FL. 
 
-Woitena B, Zou J,**Schroeder PJ** et al. Predicting deployability from modifiable behaviors in active-duty Air Force Service members. Paper presented at Military Health System Research Symposium 2019. Kissimmee FL <a href="pjschroeder/Presentations/blob/20c3a098d8adfbc1a0720e976f59ae31ffd938f3/Poster_MHSRS19_PredictingDeployabilityFromModifiableBehaviors.pdf" target="_blank">
+Woitena B, Zou J,**Schroeder PJ** et al. Predicting deployability from modifiable behaviors in active-duty Air Force Service members. Paper presented at Military Health System Research Symposium 2019. Kissimmee FL <a href="pjschroeder/Presentations/Poster_MHSRS19_PredictingDeployabilityFromModifiableBehaviors.pdf" target="_blank">PDF.</a>
+  
+  <a href="username.github.io/folder/document.pdf" target="_blank">PDF.</a>
 
 Duncan J,**Schroeder PJ,** Williams J. Medical encounters for sleep disorders among mixed-age male and female active-duty U.S. Air Force between 2016 and 2017. Poster presented at SLEEP 2019. San Antonio, TX.
 
