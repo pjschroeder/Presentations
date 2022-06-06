@@ -1,6 +1,6 @@
 <Updated May 31 2022>
 
-Rice VJ, **Schroeder PJ,** Allison SJ. Gender effects for perceived stress and coping among U.S. Military active duty and veteran service members. Paper presented at International Conference on Applied Human Factors and Ergonomics 2020. San Diego, CA. 
+Rice VJ, **Schroeder PJ,** Allison SJ. Gender effects for perceived stress and coping among U.S. Military active duty and veteran service members. Paper presented at International Conference on Applied Human Factors and Ergonomics 2020. San Diego, CA. <a href="https://github.com/pjschroeder/Presentations/blob/main/POSTER_SWHFE17_SelfRatedSelfCaompassion.pdf" target="_blank">PDF.</a>
 
 Rice VJB, **Schroeder PJ,** Boykin GL et al. Is self-concept related to organizational and job-related commitment among combat medic trainees. Paper presented at International Conference on Applied Human Factors and Ergonomics 2020. San Diego, CA. 
 
