@@ -44,7 +44,7 @@ Gunawan K, Copeland DE, **Schroeder PJ.** The detection of event shifts in seque
 
 **Schroeder PJ,** Copeland DE, Gunawan K. Comprehending spatial relations under survival conditions. Paper presented at the 20th annual meeting of the Society for Text and Discourse 2011. Chicago, IL.  <a href="https://github.com/pjschroeder/Presentations/blob/main/Presentation_STD10_ComprehensionOfSpatialRelations.pdf" target="_blank">PDF.</a>
 
-**Schroeder PJ,** Copeland DE. The use of contextual information on a working memory span task. Paper presented at the 22nd annual convention of the Association for Psychological Science 2010. Boston, MA.  <a href="https://github.com/pjschroeder/Presentations/blob/main/Poster_APS10_UseOfContextualInfo.pdf"target="_blank">PDF.</a>
+**Schroeder PJ,** Copeland DE. The use of contextual information on a working memory span task. Paper presented at the 22nd annual convention of the Association for Psychological Science 2010. Boston, MA.  <a href="https://github.com/pjschroeder/Presentations/blob/main/Poster_APS10_UseOfContextualInfo.pdf" target="_blank">PDF.</a>
  
 
 Latronica B, McMurray J, **Schroeder PJ**. Undergraduate majors predict attitudes towards science. Poster presented at the 88th annual convention of the Western Psychological Association 2008. Irvine, CA. 
