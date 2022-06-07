@@ -1,4 +1,4 @@
-<a href="https://pjschroeder.github.io/" target="_blank">Home.</a>
+<a href="https://pjschroeder.github.io/" target="_blank">**Home**.</a>
 
 <Updated May 31 2022>
 
