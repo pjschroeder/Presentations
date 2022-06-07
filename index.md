@@ -2,7 +2,7 @@
 
 
 
-<Updated May 31 2022>
+<Updated June 7 2022>
 
 Rice VJ, **Schroeder PJ,** Allison SJ. Gender effects for perceived stress and coping among U.S. Military active duty and veteran service members. Paper presented at International Conference on Applied Human Factors and Ergonomics 2020. San Diego, CA. 
 
