@@ -1,4 +1,4 @@
-***Navigation*** <a href="https://pjschroeder.github.io/" target="_blank">**Home**.</a>    <a href="https://pjschroeder.github.io/Publications/" target="_blank">**Publications**.</a>    <a href="https://photos.google.com/share/AF1QipMlbI0EBOjB_aAF47elFRw6auyFfGQED7eiJW50X7RrzaCXsA_0qe4GkIQfop1mFg?key=eVNndHNfLWRMT3VRamx6YjRPRWxWZTNjRGtXWWRn" target="_blank">**Photography**.</a>   <a href="https://www.linkedin.com/in/paul-j-schroeder-020b1316/" target="_blank">**LinkedIn**.</a>  
+***Navigation*** Code.     <a href="https://pjschroeder.github.io/" target="_blank">**Home**.</a>    <a href="https://pjschroeder.github.io/Publications/" target="_blank">**Publications**.</a>    <a href="https://photos.google.com/share/AF1QipMlbI0EBOjB_aAF47elFRw6auyFfGQED7eiJW50X7RrzaCXsA_0qe4GkIQfop1mFg?key=eVNndHNfLWRMT3VRamx6YjRPRWxWZTNjRGtXWWRn" target="_blank">**Photography**.</a>   <a href="https://www.linkedin.com/in/paul-j-schroeder-020b1316/" target="_blank">**LinkedIn**.</a>     <a href="schroed9@gmail.com" target="_blank">**Contact Me**.</a>    
 
 
 
